@@ -1,3 +1,8 @@
+#ignore single files
 new-file.txt
 
+#ignore folder
 bin/
+
+#ignore all .temp files
+*.temp
